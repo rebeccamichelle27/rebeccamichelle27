@@ -1,4 +1,13 @@
-### Hi there 👋
+### About Me
+
+Hi! I'm Rebecca!
+
+I'm an aspiring software developer.
+
+### Links
+
+* [Resume/CV](rebeccasmith.lol)
+* [Snake!](snake.rebeccasmith.lol)
 
 <!--
 **rebeccamichelle27/rebeccamichelle27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
