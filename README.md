@@ -1,6 +1,6 @@
 ### About Me
 
-Hi! I'm Rebecca!
+Hi, I'm Rebecca.
 
 I'm an aspiring software developer.
 
